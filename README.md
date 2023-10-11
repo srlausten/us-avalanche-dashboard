@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Panel dashboard that visualizes accident data using Plotly and Panel. It includes a map visualization, a histogram, and interactive widgets for filtering data by date and month.
+This project is an Avalanche dashboard that visualizes accident data using Python and Data from CAIC US Database. It includes data exploration and visualization tools, and a beta predictive-analysis tool, **not to be used for actual predictions**.  
 
 ## Table of Contents
 
@@ -27,8 +27,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/panel-dashboard-project.git
-   cd panel-dashboard-project
+   git clone 
+   cd 
    ```
 
 2. Create a virtual environment (recommended):
