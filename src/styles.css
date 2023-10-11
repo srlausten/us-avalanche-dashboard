@@ -1,0 +1,21 @@
+/* styles.css content */
+body {
+    background-color: #2D2D2D; /* Dark background for the body */
+}
+
+.bk {
+    color: white;  /* White text color for general bokeh classes */
+}
+
+.bk-root .bk {
+    color: white;  /* White text color for general bokeh classes within the root */
+}
+
+.bk-input-group > label.bk {
+    color: white;  /* White text color for labels of input groups */
+}
+
+.bk.box {
+    background-color: #3D3D3D; /* Dark background for box elements */
+    border-color: #4D4D4D;  /* Dark border color for box elements */
+}
