@@ -1,8 +1,4 @@
-Certainly! A README file is essential for providing information about your project. Here's a basic template for creating a README for your Panel dashboard project:
-
----
-
-# Panel Dashboard Project
+# US Avalanche Data Dashboard
 
 ## Overview
 
