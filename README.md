@@ -56,9 +56,17 @@ The dashboard will be accessible in your web browser at `http://localhost:5006`.
 
 ## Dashboard
 
+![dashboard](https://github.com/srlausten/us-avalanche-dashboard/assets/65357089/a9ec671a-1b6b-4ab7-971f-4a2e0e714cb2)
+
 - **Map Visualization**: Visualizes accident data on a map using Plotly's Scatter Mapbox. Includes a date slider to filter accidents.
 
 - **Histogram**: Shows a monthly accident histogram with a slider to filter data by month.
+
+- **Predictive Modeling**: WIP
+
+
+
+  
 
 ## License
 
