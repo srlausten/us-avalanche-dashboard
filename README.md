@@ -3,6 +3,7 @@
 ## Overview
 
 This project is an Avalanche dashboard that visualizes accident data using Python and Data from CAIC US Database. It includes data exploration and visualization tools, and a beta predictive-analysis tool, **not to be used for actual predictions**.  
+![dashboard](https://github.com/srlausten/us-avalanche-dashboard/assets/65357089/a9ec671a-1b6b-4ab7-971f-4a2e0e714cb2)
 
 ## Table of Contents
 
@@ -56,8 +57,6 @@ The dashboard will be accessible in your web browser at `http://localhost:5006`.
 
 ## Dashboard
 
-![dashboard](https://github.com/srlausten/us-avalanche-dashboard/assets/65357089/a9ec671a-1b6b-4ab7-971f-4a2e0e714cb2)
-
 - **Map Visualization**: Visualizes accident data on a map using Plotly's Scatter Mapbox. Includes a date slider to filter accidents.
 
 - **Histogram**: Shows a monthly accident histogram with a slider to filter data by month.
@@ -65,8 +64,6 @@ The dashboard will be accessible in your web browser at `http://localhost:5006`.
 - **Predictive Modeling**: WIP
 
 
-
-  
 
 ## License
 
